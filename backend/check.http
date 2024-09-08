@@ -1,0 +1,7 @@
+GET http://localhost:3000/todos
+
+
+GET http://localhost:3000/deletetodo/2d82ac37-a0d2-4f4e-8d38-6bc7ce9c2fde
+
+
+GET http://localhost:3000/summa/7f7f358a-8bf8-428c-8122-fc6a5895087a
